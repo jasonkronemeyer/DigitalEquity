@@ -1,4 +1,4 @@
-# Digital Equity Learning
+## Digital Equity Learning
 
 Hello World from **UMSI MADS Capstone Project Team 26: Digital Equity Learning**!
 
@@ -12,3 +12,10 @@ We are looking to connect and collaborate with researchers in the community who 
 
  
 Any connections you can help us make are greatly appreciated!
+
+## 📬 Contact
+
+For any queries, suggestions, or feedback, please contact us at:
+- [jfkrone@umich.edu]
+- [osas@umich.edu]
+- [zte@umich.edu]
