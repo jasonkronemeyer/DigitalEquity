@@ -1,0 +1,14 @@
+# .gitignore file
+
+# Ignore all .txt files
+*.txt
+
+# Ignore all files in the .secrets directory
+.secrets/*
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore all .pdf files in the doc/ directory
+# doc/*.pdf
+
