@@ -47,3 +47,7 @@ Eastern Upper Pensinsula of Michigan and reflects the geographical boundaries of
 - EUPCounties.shp.zip
 - EUPPlanning_Region.shp.zip
 - EUPTowns.shp.zip
+
+## Netstats from OOKLA
+
+- MI_Netstats.gpkg - This file contains the OOKLA speedtest public data for 2023 Q3, 2023 Q4, and 2024 Q1 for the whole state of michigan. There is a notebook in the practice folder based on a tutorial used from OOKLA git-hub.
