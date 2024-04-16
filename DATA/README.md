@@ -18,16 +18,48 @@ Data dictionary: https://us-fcc.app.box.com/v/bdc-data-downloads-output
 Columns in data:
 
 'building_type_code',
+
 'land_use_code',
-'provider_id',
-'brand_name',
-'technology',
+
+'provider_id', integer - Unique identifier for the fixed service provider.
+
+'brand_name', string Acme - Name of the entity or service advertised or offered to
+consumers.
+
+'technology', integer - Code for the technology used for the deployed service.
+
+- Value is one of the following codes:
+- 10 – Copper Wire
+- 40 – Coaxial Cable / HFC
+- 50 – Optical Carrier / Fiber to the Premises
+- 60 – Geostationary Satellite
+- 61 – Non-geostationary Satellite
+- 70 – Unlicensed Terrestrial Fixed Wireless
+- 71 – Licensed Terrestrial Fixed Wireless
+- 72 – Licensed-by-Rule Terrestrial Fixed Wireless
+- 0 – Other
+
 'technology_name',
-'max_advertised_download_speed',
-'max_advertised_upload_speed',
-'low_latency',
-'business_residential_code',
-'up_down_ratio',
+
+'max_advertised_download_speed', Integer - Maximum advertised download speed offered at the location in Mbps
+
+'max_advertised_upload_speed', Integer - Maximum advertised upload speed associated with the maximum advertised download speed offered at the location in Mbps.
+
+'low_latency', boolean integer - Boolean integer flag indicating whether or not the offered service is low latency, defined as having round-trip latency of less than or equal to 100 ms based on the 95th percentile of measurements.
+
+- Value is one of the following codes:
+- 0 – False
+- 1 – True
+
+'business_residential_code', Enumerated String - Enumerated character identifying whether the service at the location is offered only to business customers, only to residential customers, or to both business and residential customers.
+
+- Value is one of the following codes:
+- B – Business-only location
+- R – Residential-only location
+- X – Business and Residential location
+
+'up_down_ratio', float, calculated at upload / download
+
 'geometry'
 
 ## Dataset: EUPOSMgraph.gpkg
