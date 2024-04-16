@@ -1,13 +1,12 @@
 ## Team 26 Digital Equity Learning - Capstone Project Specifications Checklist
 
 -	 A GitHub repository containing
-
-   -	 A README file that documents how to run your code 
-   -	 A requirements.txt file listing the libraries needed to run your code
-   -	 Code that generates results and figures in your report
-   -	 Cleaned code: unused code blocks and files removed, absolute file paths converted to relative paths, and personal keys (e.g. API) removed.
-   -	 A data access statement indicating how to access the data or explaining who owns the data. Licenses for data use and redistribution are respected.
-   -	 In-line code attributions for any code segments your team did not write or received external assistance to create. If code is reused from an open source project, licenses are respected.
+   *	 A README file that documents how to run your code 
+   *	 A requirements.txt file listing the libraries needed to run your code
+   *	 Code that generates results and figures in your report
+   *	 Cleaned code: unused code blocks and files removed, absolute file paths converted to relative paths, and personal keys (e.g. API) removed.
+   *	 A data access statement indicating how to access the data or explaining who owns the data. Licenses for data use and redistribution are respected.
+   *	 In-line code attributions for any code segments your team did not write or received external assistance to create. If code is reused from an open source project, licenses are respected.
 
 -	 A 3-5 minute video summary or poster about the highlights of your project
 
