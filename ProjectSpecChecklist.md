@@ -24,7 +24,7 @@
 - ### A post in the #capstone-gallery channel to share your video, poster, and/or blog.
 
 
-## Additional Reminders from the instructional team:
+#### Additional Reminders from the instructional team:
 
 Capstone projects are highly individualized, and there is no single definition of success. To promote curiosity and risk-taking, we will be using specifications grading to assess your final projects. In this framework, all projects that meet the minimum requirements, specified in the checklist below, receive full credit. Of course, we expect you will go beyond the minimum! 
 Projects that meet all specifications will receive full credit. As a grace, one specification can be missed without penalty.
