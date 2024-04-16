@@ -17,7 +17,7 @@ Data dictionary: https://us-fcc.app.box.com/v/bdc-data-downloads-output
 
 Columns in data:
 
-'building_type_code',
+'building_type_code', Indicates if the record is considered (R) residential, (B) non-residential, (X) mixed, (G) Group Quarters, (C) CAI, (E) enterprise or (O) other Indicator (see definition)
 
 'land_use_code',
 
