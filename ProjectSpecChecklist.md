@@ -1,6 +1,6 @@
 ## Team 26 Digital Equity Learning - Capstone Project Specifications Checklist
 
-- A GitHub repository containing:
+- ### A GitHub repository containing:
   - A README file that documents how to run your code.
   - A requirements.txt file listing the libraries needed to run your code.
   - Code that generates results and figures in your report.
