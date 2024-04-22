@@ -1,3 +1,5 @@
+![Image for readme in git hub - decorative](images/project_plot.png)
+
 ## Digital Equity Learning
 
 Hello World from **UMSI MADS Capstone Project Team 26: Digital Equity Learning**!
