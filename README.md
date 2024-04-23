@@ -2,9 +2,9 @@
 
 ## Digital Equity Learning
 
-Hello World! **We are MADS Capstone Project Team 26*. 
+Hello World! **We are MADS Capstone Project Team 26**. 
 
-Allow us to introduce ourselves: Te, Osas, and Jason. We’ve been working on the **Digital Equity Learning** project, and it has been quite a journey.
+Allow us to introduce ourselves: Te, Osas, and Jason. We’ve been working on the **Digital Equity Learning** project, and it has been quite a journey!
 
 Our adventure began with a qualitative analysis of the Netrics dataset. Our goal was to understand the various attributes related to quality of experience in terms of Internet or network connectivity. Throughout this journey, we’ve learned and applied many skills that we developed during the MADS program.
 
