@@ -19,7 +19,7 @@ We’ve thoroughly enjoyed this project and appreciate the chance to share it wi
 Have a fantastic day, and GoBlue!
 
 
-### To run our code that developed our models and visualizations for our report, clone this repository, setup an evironment with the libraries listed in requirements.txt.
+To run our code that developed our models and visualizations for our report, **clone this repository**, setup an evironment with the libraries listed in requirements.txt.
 
 - Data is in the **DATA** folder.
 - **Notebooks** folder contains the code that was used for the models and visuals in our report.
